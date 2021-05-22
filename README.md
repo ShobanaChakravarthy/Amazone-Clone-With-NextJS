@@ -1,5 +1,4 @@
-# Amazon Clone with NextJS, Tailwind CSS and hosted with firebase
+# Amazon Clone with NextJS, Tailwind CSS and hosted with Vercel
 
 # Demo Link
-
-https://ama2zon-clone-v2.web.app
+https://amazone-clone-with-next-js.vercel.app/

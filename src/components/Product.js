@@ -22,7 +22,7 @@ function Product({ id, title, price, description, category, image }) {
 
       <h4 className="my-3">{title}</h4>
 
-      <div>
+      <div className="flex">
         {Array(rating)
           .fill()
           .map((_, i) => (
